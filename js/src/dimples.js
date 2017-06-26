@@ -138,7 +138,7 @@ function expandShape(shape,convexity){
 		x=shape.polys[j].cx;
 		y=shape.polys[j].cy;
 		z=shape.polys[j].cz;
-		console.log(z);
+// 		console.log(z);
 		d=sqrt(x*x+y*y+z*z);
 		p1=atan2(x,y);
 		p2=elevation(x,y,z);
