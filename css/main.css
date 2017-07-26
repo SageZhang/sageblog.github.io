@@ -277,7 +277,7 @@ p {
   margin: 0 0 25px 0;
 }
 a {
-  color: white;
+  color: black;
   text-decoration: none;
   border-bottom: 1px solid #999;
   word-wrap: break-word;
@@ -2573,10 +2573,12 @@ hr {
   border: none;
   border-radius: 2px;
   transition-property: background;
+  color: white;
 }
 @media (max-width: 767px) {
   .menu .menu-item a {
     text-align: left;
+    color: white;
   }
 }
 .menu .menu-item a:hover {
