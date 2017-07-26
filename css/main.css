@@ -277,7 +277,7 @@ p {
   margin: 0 0 25px 0;
 }
 a {
-  color: #555;
+  color: #bbb;
   text-decoration: none;
   border-bottom: 1px solid #999;
   word-wrap: break-word;
@@ -855,7 +855,7 @@ pre .javascript .function {
   display: block;
   width: 22px;
   height: 2px;
-  background: #555;
+  background: #bbb;
   border-radius: 1px;
 }
 .btn-bar+.btn-bar {
@@ -1001,7 +1001,7 @@ pre .javascript .function {
   position: relative;
   display: inline-block;
   padding: 0 40px;
-  color: #222;
+  color: #bbb;
   background: #222;
   border-bottom: none;
 }
