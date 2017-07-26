@@ -277,7 +277,7 @@ p {
   margin: 0 0 25px 0;
 }
 a {
-  color: black;
+  color: #999;
   text-decoration: none;
   border-bottom: 1px solid #999;
   word-wrap: break-word;
@@ -2582,7 +2582,7 @@ hr {
   }
 }
 .menu .menu-item a:hover {
-  background: #e1e1e1;
+  background: black;
 }
 .menu a::before {
   display: none;
