@@ -2583,6 +2583,7 @@ hr {
 }
 .menu .menu-item a:hover {
   background: white;
+  color:black;
 }
 .menu a::before {
   display: none;
